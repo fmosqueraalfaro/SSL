@@ -15,4 +15,19 @@ Adquirir y preparar los recursos necesarias para resolver los trabajos del curso
 • Ninguna.
 ## 3.5. Tareas
 1. Cuenta en GitHub
-a. Si no tiene, cree una cuenta GitHub
+2. Repositorio para público para la materia
+3. Compilador
+4. Publicación
+5. Armado de Equipo.
+## 3.6. Productos
+```
+fmosqueraalfaro
+- SSL 
+  -00-CHelloWorld
+   |-- readme.md 
+   |-- hello.c
+   |-- output.txt
+```
+
+El compilador que seleccioné para trabajar es  MinGW 
+
